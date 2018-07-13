@@ -38,3 +38,5 @@ Enable pi-blaster and autostart:
 Open a browser on http://Raspberrypi_Ip_Address
 
 Enjoy!
+
+A big Thanks to @mitchtech (https://github.com/mitchtech) for the initial idea and tutorial !
